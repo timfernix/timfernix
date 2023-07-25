@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @timfernix
-- 📫 How to reach me: Discord: @timernix
-- ✨ Interested in what i do: https://zoe-discord-bot.ch/, https://translate.zoe-discord-bot.ch/ & https://wiki.zoe-discord-bot.ch/
-- 
 ![](./github-header-image.png)
+
+
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timfernix&theme=vision_friendly_dark) 
