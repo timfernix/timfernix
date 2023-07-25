@@ -2,7 +2,7 @@
 
 - ✨ he/him
 - 🌍 German/English
-- - 📫 Reach me on Discord @
+- 📫 Reach me on Discord @
 - 🛠 Zoe Discord Bot - Staff Team
 
 - 💻 [Zoe Website](https://zoe-discord-bot.ch/)
