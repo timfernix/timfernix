@@ -1,8 +1,17 @@
 ![](./github-header-image.png)
 
+- ✨ he/him
+- 🌍 German/English
+- - 📫 Reach me on Discord @
+- 🛠 Zoe Discord Bot - Staff Team
 
+- 💻 [Zoe Website](https://zoe-discord-bot.ch/)
+- 💻 [Zoe Translations](https://translate.zoe-discord-bot.ch/)
+- 💻 [Zoe Wiki](https://wikizoe-discord-bot.ch/)
 
+![](./standard.gif)
 
+👼🏻 "Hey, Yuuto - wake up. It’s showtime. Let's protect the Galaxy!"
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timfernix&theme=vision_friendly_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timfernix&theme=vision_friendly_dark)
