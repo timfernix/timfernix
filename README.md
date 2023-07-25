@@ -4,8 +4,6 @@
 >🌍 German/English <br>
 >🛠 Zoe Discord Bot - Staff Team <br>
 > 💻 [Zoe Website](https://zoe-discord-bot.ch/), [Zoe Translations](https://translate.zoe-discord-bot.ch/) & [Zoe Wiki](https://wikizoe-discord-bot.ch/) <br>
-<br>
-
 >👼🏻 "Hey, Yuuto - wake up. It’s showtime. Let's protect the Galaxy!"
 
 <br>
