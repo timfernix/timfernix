@@ -1,4 +1,5 @@
 ![](./github-header-image.png)
+![](https://komarev.com/ghpvc/?username=timfernix)
 
 >✨ he/him <br>
 >🌍 German/English <br>
@@ -13,10 +14,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timfernix&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=timfernix&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timfernix&theme=vision_friendly_dark&utcOffset=8) 
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=timfernix)
 
 <br>
 
