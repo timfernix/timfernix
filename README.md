@@ -1,6 +1,6 @@
 ![](./github-header-image.png) <br>
 
-![](https://komarev.com/ghpvc/?username=timfernix) <br>
+![](https://komarev.com/ghpvc/?username=timfernix) ![](https://img.shields.io/github/followers/timfernix?label=Followers&style=plastic) <br>
 
 >✨ he/him <br>
 >🌍 German/English <br>
