@@ -1,6 +1,6 @@
 ![](./github-header-image.png) <br>
 
-![](https://komarev.com/ghpvc/?username=timfernix) ![](https://img.shields.io/github/followers/timfernix?label=Followers&style=flat) ![](https://img.shields.io/github/stars/Zoe-Discord-Bot?label=Stars&style=flat) ![](https://img.shields.io/youtube/channel/views/UCxFEiInBtxrZ29mt0eq_AXA)
+![](https://komarev.com/ghpvc/?username=timfernix) ![](https://img.shields.io/github/followers/timfernix?label=Followers&style=flat) ![](https://img.shields.io/github/stars/Zoe-Discord-Bot?label=Stars&style=flat) ![](https://img.shields.io/youtube/channel/views/UCxFEiInBtxrZ29mt0eq_AXA?label=Views&style=flat)
 
 <br>
 
