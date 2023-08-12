@@ -1,5 +1,6 @@
-![](./github-header-image.png)
-![](https://komarev.com/ghpvc/?username=timfernix)
+![](./github-header-image.png) <br>
+
+![](https://komarev.com/ghpvc/?username=timfernix) <br>
 
 >✨ he/him <br>
 >🌍 German/English <br>
