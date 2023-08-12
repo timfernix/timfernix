@@ -1,6 +1,6 @@
 ![](./github-header-image.png) <br>
 
-![](https://komarev.com/ghpvc/?username=timfernix) ![](https://img.shields.io/github/followers/timfernix?label=GitHub-Followers&style=flat) ![](https://img.shields.io/github/stars/Zoe-Discord-Bot?label=Stars&style=flat) ![](https://img.shields.io/youtube/channel/views/UCxFEiInBtxrZ29mt0eq_AXA?label=YouTube-Views&style=flat) ![](https://img.shields.io/badge/Zoe_Discord_Bot_Users->49k-yellow) ![](https://img.shields.io/badge/Zoe_Discord_Bot_Servers-%3E7,5k-orange)
+![](https://komarev.com/ghpvc/?username=timfernix) ![](https://img.shields.io/github/followers/timfernix?label=GitHub-Followers&style=flat) ![](https://img.shields.io/github/stars/Zoe-Discord-Bot?label=Stars&style=flat) ![](https://img.shields.io/youtube/channel/views/UCxFEiInBtxrZ29mt0eq_AXA?label=YouTube-Views&style=flat) ![](https://img.shields.io/badge/Zoe_Discord_Bot_Servers-%3E7,5k-orange) ![](https://img.shields.io/badge/Zoe_Discord_Bot_Users->49k-yellow) 
 
 <br>
 
