@@ -7,8 +7,8 @@
 >✨he/him <br>
 >🌍 GER/EN <br>
 >💖 Ezreal Fanboy <br>
+> 💻 [Zoe Website](https://zoe-discord-bot.ch/), [Translations](https://translate.zoe-discord-bot.ch/) & [Wiki](https://wikizoe-discord-bot.ch/) <br>
 >🛠 Zoe Discord Bot - Staff Team → [discord.gg/4Rxrzsxb7d](https://discord.gg/4Rxrzsxb7d) <br>
-> 💻 [Zoe Website](https://zoe-discord-bot.ch/), [Zoe Translations](https://translate.zoe-discord-bot.ch/) & [Zoe Wiki](https://wikizoe-discord-bot.ch/) <br>
 > <img src="./SGE.png" height="15" > "Hey, Yuuto - wake up. It’s showtime. Let's protect the Galaxy!"
 
 <br>
