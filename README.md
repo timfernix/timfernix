@@ -12,7 +12,7 @@
 > <img src="./SGE.png" height="15" > *"Hey, Yuuto - wake up. It’s showtime. Let's protect the Galaxy!"*
 
 <br>
-<img src="./ez_banner.png" width="800" >
+<img src="./ez_banner.png" width="700">
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timfernix&theme=vision_friendly_dark) 
