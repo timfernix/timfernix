@@ -4,8 +4,8 @@
 
 <br>
 
->✨**he/him** <br>
 >💖 **Ezreal** <br>
+>✨**he/him** <br>
 >🌍 **GER/EN** <br>
 > 💻 [Zoe Website](https://zoe-discord-bot.ch/), [Translations](https://translate.zoe-discord-bot.ch/) & [Wiki](https://wikizoe-discord-bot.ch/) <br>
 >🛠 **Zoe Discord Bot - Staff Team** → [discord.gg/4Rxrzsxb7d](https://discord.gg/4Rxrzsxb7d) <br>
