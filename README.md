@@ -4,6 +4,10 @@
 
 <br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/589773984447463434)](https://discord.com/users/589773984447463434)
+
+<br>
+
 >💖 **Ezreal** <br>
 >✨**he/him** <br>
 >🌍 **GER/EN** <br>
