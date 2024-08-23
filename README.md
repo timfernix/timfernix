@@ -9,9 +9,10 @@
 <br>
 
 >💖 **Ezreal** <br>
->✨**he/him** <br>
+>✨ **he/him** <br>
 >🌍 **GER/EN** <br>
-> 💻 [Zoe Website](https://zoe-discord-bot.ch/), [Translations](https://translate.zoe-discord-bot.ch/) & [Wiki](https://wikizoe-discord-bot.ch/) <br>
+>💻 [League Purity Test](https://timfernix.github.io/leaguepuritytest/)
+>✨ [Zoe Website](https://zoe-discord-bot.ch/), [Translations](https://translate.zoe-discord-bot.ch/) & [Wiki](https://wikizoe-discord-bot.ch/) <br>
 >🛠 **Zoe Discord Bot - Staff Team** → [discord.gg/4Rxrzsxb7d](https://discord.gg/4Rxrzsxb7d) <br>
 > <img src="./SGE.png" height="15" > *"Outshine everyone, and no one will see what you're up to."*
 
@@ -32,23 +33,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timfernix&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timfernix&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=timfernix&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timfernix&theme=vision_friendly_dark&utcOffset=8) 
-
-<br>
-
-![](./standard.gif)
-
-<!--
-**timfernix/timfernix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timfernix&theme=vision_friendly_dark&utcOffset=8)
