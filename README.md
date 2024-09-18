@@ -25,6 +25,10 @@
 
 <br>
 
+![Steam Profile](https://gamer2810.github.io/steam-miniprofile/?accountId=76561198266128686)
+
+<br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timfernix&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timfernix&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timfernix&theme=vision_friendly_dark)
