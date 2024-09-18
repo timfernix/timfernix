@@ -25,7 +25,7 @@
 
 <br>
 
-<iframe src="https://gamer2810.github.io/steam-miniprofile/?accountId=76561198266128686" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=<76561198266128686>)
 
 <br>
 
