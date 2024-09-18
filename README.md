@@ -25,7 +25,7 @@
 
 <br>
 
-![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=<76561198266128686>)
+![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561198266128686)
 
 <br>
 
