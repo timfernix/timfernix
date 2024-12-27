@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=timfernix) ![](https://img.shields.io/github/followers/timfernix?label=GitHub-Followers&style=flat) ![](https://img.shields.io/github/stars/Zoe-Discord-Bot?label=Stars&style=flat) ![](https://img.shields.io/youtube/channel/views/UCxFEiInBtxrZ29mt0eq_AXA?label=YouTube-Views&style=flat) ![](https://img.shields.io/badge/Zoe_Discord_Bot_Servers-%3E9.9k-orange) ![](https://img.shields.io/badge/Zoe_Discord_Bot_Users->69.0k-yellow) ![](https://img.shields.io/discord/554578876811182082) ![](https://img.shields.io/weblate/translations/timfernix?server=https%3A%2F%2Ftranslate.zoe-discord-bot.ch&label=Weblate%20Translations) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/timfernix)
 
-<img src="./Timfenix Banner.png" width="700">
+<img src="./Timfenix Banner.png" width="900">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/589773984447463434)](https://discord.com/users/589773984447463434)
 
