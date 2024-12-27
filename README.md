@@ -24,5 +24,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=timfernix&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timfernix&theme=vision_friendly_dark&utcOffset=8)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=timfernix&theme=codeSTACKr&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=timfernix&theme=codeSTACKr&hide_border=false) <br>
 ![](https://github-contributor-stats.vercel.app/api?username=timfernix&limit=5&theme=dark&combine_all_yearly_contributions=true)
