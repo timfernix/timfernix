@@ -1,3 +1,5 @@
+<img src="./Timfenix Banner.png" width="700">
+
 ![](https://komarev.com/ghpvc/?username=timfernix) ![](https://img.shields.io/github/followers/timfernix?label=GitHub-Followers&style=flat) ![](https://img.shields.io/github/stars/Zoe-Discord-Bot?label=Stars&style=flat) ![](https://img.shields.io/youtube/channel/views/UCxFEiInBtxrZ29mt0eq_AXA?label=YouTube-Views&style=flat) ![](https://img.shields.io/badge/Zoe_Discord_Bot_Servers-%3E9.9k-orange) ![](https://img.shields.io/badge/Zoe_Discord_Bot_Users->69.0k-yellow) ![](https://img.shields.io/discord/554578876811182082) ![](https://img.shields.io/weblate/translations/timfernix?server=https%3A%2F%2Ftranslate.zoe-discord-bot.ch&label=Weblate%20Translations) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/timfernix)
 
 
@@ -37,6 +39,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=timfernix&theme=codeSTACKr&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=timfernix&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br>
-<img src="./ez_banner.png" width="700">
