@@ -4,7 +4,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/589773984447463434)](https://discord.com/users/589773984447463434)
 
->✦彡 Level 23 • German <br>
+>✦彡 Level 24 • German <br>
 >❀ Ezreal kinnie ˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚ <br>
 >✧ Star Guardian mode: `always on` <br>
 >⚝ Things I build: https://timfernix.github.io <br>
