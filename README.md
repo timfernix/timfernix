@@ -24,6 +24,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=timfernix&theme=vision_friendly_dark&utcOffset=8)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=timfernix&theme=codeSTACKr&hide_border=false) <br>
-![](https://github-contributor-stats.vercel.app/api?username=timfernix&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timfernix" alt="timfernix" /></a> </p>
