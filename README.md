@@ -86,4 +86,4 @@
 
 ---
 
-> Find more info on timfernix.github.io
+> Find more info on <a href="https://timfernix.github.io">timfernix.github.io</a>  
