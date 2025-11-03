@@ -18,8 +18,10 @@
 ---
 
 ### ✨ About
-- Ezreal kinnie · Star Guardian mode: <code>always on</code> <img src="./SGE.png" height="14" alt="SG icon">
-- Things I build: <a href="https://timfernix.github.io">timfernix.github.io</a>  
+- ✦彡 Level 24 • German
+- ❀ Ezreal kinnie ˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚
+- Star Guardian mode: <code>always on</code>
+- More info on my projects: <a href="https://timfernix.github.io">timfernix.github.io</a>  
 - Zoe Staff: <a href="http://discord.gg/4Rxrzsxb7d">Discord</a> · <a href="https://zoe-discord-bot.ch/">Website</a> · <a href="https://translate.zoe-discord-bot.ch/">Translations</a> · <a href="https://wikizoe-discord-bot.ch/">Wiki</a>  
 - <em>“Outshine everyone, and no one will see what you're up to.”</em>
 
