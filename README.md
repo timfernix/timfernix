@@ -28,8 +28,9 @@
 ---
 
 ### 🔭 Spotlight
-- **Zoe Discord Bot** — Multi-feature LoL companion (multilingual, utilities, leaderboards).  
-- **Ezreal Media Archive** — Curated ezreal media
+- [**Zoe Discord Bot**](https://github.com/Zoe-Discord-Bot) - Multi-feature LoL companion (multilingual, utilities, leaderboards).
+- [**Tierlist Maker**](https://github.com/timfernix/tierlist) - Create League of Legends tierlists with different scopes
+- [**Ezreal Media Archive**](https://github.com/timfernix/ezreal) - Curated Ezreal media from all Riot games
 
 > Want details? See pinned repositories or my portfolio.
 
@@ -50,11 +51,6 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-blueviolet?style=flat&logo=visualstudiocode&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-blue?style=flat&logo=windows&logoColor=white">
-</p>
-
-<details>
-<summary><b>More tools</b></summary>
-<p>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
   <img alt="Bitwarden" src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white">
   <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white">
@@ -62,7 +58,6 @@
   <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white">
   <img alt="Nodemon" src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD">
 </p>
-</details>
 
 ---
 
